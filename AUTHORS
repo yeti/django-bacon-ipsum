@@ -1,0 +1,33 @@
+AUTHORS
+=======
+
+Django Bacon Ipsum was created in 2013 at Yeti LLC in San Francisco, California.
+
+Primary Authors
+---------------
+
+The primary authors are:
+
+    * Richard Fung (rhfung, richard@yetihq.com)
+
+Contributors
+------------
+
+And here is an inevitably incomplete list of MUCH-APPRECIATED CONTRIBUTORS --
+people who have submitted patches, reported bugs, added translations, helped
+answer newbie questions, and generally made Django that much better:
+
+    * (none so far)
+
+
+Credits
+-------
+
+A big THANK YOU goes to:
+
+    * Pete Nelson for open-sourcing Bacon Ipsum at https://github.com/petenelson/bacon-ipsum, 
+      available at http://baconipsum.com/
+
+    * The Django core team for developing such a modular web application framework
+
+    * Guido van Rossum for Python

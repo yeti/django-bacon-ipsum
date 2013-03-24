@@ -1,0 +1,9 @@
+INSTALL
+=======
+
+Django bacon ipsum is available through the following command:
+
+    pip install django-bacon-ipsum
+
+Or by adding the django-bacon-ipsum Django app from this repository into your 
+Django project directory.
